@@ -36,3 +36,6 @@ The original license texts are included.
 Credit is given to the original authors.
 
 No misleading use of the authors' names in advertising or promotion.
+
+License Text: [curl license](https://curl.se/docs/copyright.html)
+License Text: [nlohmann/json license](https://github.com/nlohmann/json#license)
