@@ -69,3 +69,5 @@ License Text: [nlohmann/json license](https://github.com/nlohmann/json#license)
 
 Note: This SDK currently does not redistribute libcurl or any JSON library binaries.  
 However, source code includes references to these libraries, and users are responsible for complying with their respective licenses when building or distributing derived works.
+
+Note: This SDK is distributed as source code only. It does not include or redistribute any third-party binaries.
