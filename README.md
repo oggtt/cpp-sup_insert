@@ -39,3 +39,6 @@ No misleading use of the authors' names in advertising or promotion.
 
 License Text: [curl license](https://curl.se/docs/copyright.html)
 License Text: [nlohmann/json license](https://github.com/nlohmann/json#license)
+
+Note: This SDK currently does not redistribute libcurl or any JSON library binaries.  
+However, source code includes references to these libraries, and users are responsible for complying with their respective licenses when building or distributing derived works.
