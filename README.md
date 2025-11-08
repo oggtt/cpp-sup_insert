@@ -76,7 +76,7 @@ Note: This SDK is distributed as source code only. It does not include or redist
 How to USE
 
 
-STEP1: The cpp file and hpp file is already in your current directory.
+STEP1: The cpp file and hpp file is already in your current directory. The cacert.pem is needed in the same directory.
 
 STEP2: In command prompt, you command this...
 
