@@ -1,10 +1,10 @@
-📄 License
+License
 
 This SDK is released under the MIT License.  
 See the [LICENSE](./LICENSE) file for full license text and third-party notices.
 
 
-📚Overview
+Overview
 This sample project demonstrates how to perform data insertion into Supabase using C++ via HTTP requests.
 
 Required Libraries
@@ -28,8 +28,8 @@ mkdir build && cd build
 cmake ..
 make
 
-🔧 Used Libraries and Licenses
-🌀 libcurl
+Used Libraries and Licenses
+libcurl
 This SDK uses libcurl for HTTP communication.
 
 License: MIT/X style
@@ -42,7 +42,7 @@ Permission to use, copy, modify, and distribute this software for any purpose wi
 
 ※ Full license text is available at the official curl site
 
-🧩 JSON Library (Optional)
+JSON Library (Optional)
 Currently, this SDK does not use a JSON library. If needed in future versions, we plan to use nlohmann/json, which is also MIT licensed.
 
 License: MIT License
@@ -53,7 +53,7 @@ License Text: nlohmann/json license
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files...
 
-🛡️ Redistribution Notes
+Redistribution Notes
 This SDK is currently distributed as source code only.
 
 When redistributing binaries or modified versions, please ensure that:
@@ -67,13 +67,13 @@ No misleading use of the authors' names in advertising or promotion.
 License Text: [curl license](https://curl.se/docs/copyright.html)
 License Text: [nlohmann/json license](https://github.com/nlohmann/json#license)
 
-Note: This SDK currently does not redistribute libcurl or any JSON library binaries.  
-However, source code includes references to these libraries, and users are responsible for complying with their respective licenses when building or distributing derived works.
+Note:
+The source code includes references to these libraries, and users are responsible for complying with their respective licenses when building or distributing derived works.
 
 Note: This SDK is distributed as source code only. It does not include or redistribute any third-party binaries.
 
 
-✒️How to USE
+{ How to USE }
 
 
 STEP1: The cpp file and hpp file is already in your current directory. The cacert.pem is needed in the same directory. At this time, Curl and JSON Libraries are already installed.
